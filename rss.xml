@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Axiom&#x27;s Blog</title>
+      <link>https://axiompraxis.github.io</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://axiompraxis.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>About Me</title>
+          <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+          <author>axiompraxis</author>
+          <link>https://axiompraxis.github.io/about/</link>
+          <guid>https://axiompraxis.github.io/about/</guid>
+          <description xml:base="https://axiompraxis.github.io/about/">&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;&#x2F;h2&gt;
+&lt;p&gt;Hi, I&#x27;m axiompraxis aka Andy (he&#x2F;him), an introverted, Canadian former telecoms analyst turned DevOps person&#x2F;software developer. I live in British Columbia with my boyfriend, dog, and cat.&lt;&#x2F;p&gt;
+&lt;p&gt;I get vertigo sometimes, infrequently, for which I have to wear two types of glasses (no, bifocals won&#x27;t work) prescriped by a &lt;a href=&quot;https:&#x2F;&#x2F;www.webmd.com&#x2F;eye-health&#x2F;what-is-neuro-ophthalmologist&quot;&gt;neuro-opthalmologist&lt;&#x2F;a&gt;. It&#x27;s not debilitating 95% of the time.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tech-i-really-like&quot;&gt;Tech I really like&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;kubernetes.io&#x2F;&quot;&gt;kubernetes&lt;&#x2F;a&gt; (studying for CKAD)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.python.org&#x2F;&quot;&gt;Python&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;go.dev&#x2F;&quot;&gt;Go&lt;&#x2F;a&gt; (studying)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.debian.org&#x2F;&quot;&gt;debian&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;markdown&lt;&#x2F;li&gt;
+&lt;li&gt;CI&#x2F;CD processes in general
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;argoproj.github.io&#x2F;cd&#x2F;&quot;&gt;ArgoCD&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.github.com&#x2F;en&#x2F;actions&quot;&gt;Github Actions&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;tekton.dev&#x2F;&quot;&gt;Tekton&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;playwright.dev&quot;&gt;playwright&lt;&#x2F;a&gt; &amp;amp; &lt;a href=&quot;https:&#x2F;&#x2F;k6.io&#x2F;&quot;&gt;k6&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opentofu.org&#x2F;&quot;&gt;opentofu&lt;&#x2F;a&gt;, the open source fork of &lt;a href=&quot;https:&#x2F;&#x2F;www.terraform.io&#x2F;&quot;&gt;Terraform&lt;&#x2F;a&gt; (haven&#x27;t used it professionally yet, but experimented with it a lot)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;tech-i-ve-used-not-exhaustive&quot;&gt;Tech I&#x27;ve Used, not exhaustive&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.genesys.com&#x2F;en-sg&#x2F;genesys-engage&quot;&gt;Genesys PureEngage&lt;&#x2F;a&gt; (Expert with GIR &amp;amp; SpeechMiner)&lt;&#x2F;li&gt;
+&lt;li&gt;Operating Systems
+&lt;ul&gt;
+&lt;li&gt;Linux&#x2F;Unix
+&lt;ul&gt;
+&lt;li&gt;Ubuntu (and Debian as mentioned above)&lt;&#x2F;li&gt;
+&lt;li&gt;CentOS&lt;&#x2F;li&gt;
+&lt;li&gt;RHEL&lt;&#x2F;li&gt;
+&lt;li&gt;Gentoo&lt;&#x2F;li&gt;
+&lt;li&gt;Arch&lt;&#x2F;li&gt;
+&lt;li&gt;lots of others, including BSDs&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Windows Server (and desktop too)&lt;&#x2F;li&gt;
+&lt;li&gt;Mac OS&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Clouds
+&lt;ul&gt;
+&lt;li&gt;AWS &lt;&#x2F;li&gt;
+&lt;li&gt;Azure&lt;&#x2F;li&gt;
+&lt;li&gt;GCP&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Containers &amp;amp; Orchestrators
+&lt;ul&gt;
+&lt;li&gt;Kubernetes
+&lt;ul&gt;
+&lt;li&gt;EKS&lt;&#x2F;li&gt;
+&lt;li&gt;AKS&lt;&#x2F;li&gt;
+&lt;li&gt;GKE&lt;&#x2F;li&gt;
+&lt;li&gt;ARO (Azure Redhat Openshift)&lt;&#x2F;li&gt;
+&lt;li&gt;Microk8s&lt;&#x2F;li&gt;
+&lt;li&gt;k3s&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Docker, podman, buildah&lt;&#x2F;li&gt;
+&lt;li&gt;containerd, cri-o, runc&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Ansible&lt;&#x2F;li&gt;
+&lt;li&gt;Service meshes
+&lt;ul&gt;
+&lt;li&gt;Hashicorp Consul&lt;&#x2F;li&gt;
+&lt;li&gt;Istio&lt;&#x2F;li&gt;
+&lt;li&gt;Cilium&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;JavaScript&#x2F;TypeScript
+&lt;ul&gt;
+&lt;li&gt;NodeJS&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Virtualization
+&lt;ul&gt;
+&lt;li&gt;VMware (vSphere&#x2F;ESXi)&lt;&#x2F;li&gt;
+&lt;li&gt;qemu&lt;&#x2F;li&gt;
+&lt;li&gt;proxmox&lt;&#x2F;li&gt;
+&lt;li&gt;Oracle Virtualbox&lt;&#x2F;li&gt;
+&lt;li&gt;vagrant&lt;&#x2F;li&gt;
+&lt;li&gt;libvirt&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;DBs
+&lt;ul&gt;
+&lt;li&gt;Oracle&lt;&#x2F;li&gt;
+&lt;li&gt;Postgres&lt;&#x2F;li&gt;
+&lt;li&gt;SQL Server&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Load Balancers &amp;amp; Web Servers
+&lt;ul&gt;
+&lt;li&gt;HAProxy&lt;&#x2F;li&gt;
+&lt;li&gt;Nginx&lt;&#x2F;li&gt;
+&lt;li&gt;Apache httpd&lt;&#x2F;li&gt;
+&lt;li&gt;Apache tomcat&lt;&#x2F;li&gt;
+&lt;li&gt;Microsoft IIS&lt;&#x2F;li&gt;
+&lt;li&gt;Jetty&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Redis&lt;&#x2F;li&gt;
+&lt;li&gt;Kafka&lt;&#x2F;li&gt;
+&lt;li&gt;Jenkins&lt;&#x2F;li&gt;
+&lt;li&gt;ElasticSearch&#x2F;OpenSearch&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;personal&quot;&gt;Personal&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;things-i-like-to-do&quot;&gt;Things I like to do&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning about new and interesting technology&lt;&#x2F;li&gt;
+&lt;li&gt;I read (like, &lt;em&gt;a lot&lt;&#x2F;em&gt; &lt;strong&gt;a lot&lt;&#x2F;strong&gt;) sci-fi and fantasy, mostly progression fantasy lately (&lt;a href=&quot;https:&#x2F;&#x2F;www.amazon.com&#x2F;stores&#x2F;Will-Wight&#x2F;author&#x2F;B00D9S1IMO&quot;&gt;Cradle&lt;&#x2F;a&gt; by &lt;a href=&quot;https:&#x2F;&#x2F;www.willwight.com&#x2F;&quot;&gt;Will Wight&lt;&#x2F;a&gt; is amazing, &lt;em&gt;seriously&lt;&#x2F;em&gt; check it out)&lt;&#x2F;li&gt;
+&lt;li&gt;Swimming&lt;&#x2F;li&gt;
+&lt;li&gt;I play video games
+&lt;ul&gt;
+&lt;li&gt;currently
+&lt;ul&gt;
+&lt;li&gt;Final Fantasy XIV (prefer healing &amp;amp; SAM&#x2F;RDM)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;sporadically
+&lt;ul&gt;
+&lt;li&gt;Cyberpunk 2077&lt;&#x2F;li&gt;
+&lt;li&gt;Ghostrunner 1 &amp;amp; 2&lt;&#x2F;li&gt;
+&lt;li&gt;Octopath Traveler 1 &amp;amp; 2&lt;&#x2F;li&gt;
+&lt;li&gt;Heroes of the Storm&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;formerly
+&lt;ul&gt;
+&lt;li&gt;Destiny 2 (Titan main)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Walks with dog and boyfriend&lt;&#x2F;li&gt;
+&lt;li&gt;Music
+&lt;ul&gt;
+&lt;li&gt;Synthwave&lt;&#x2F;li&gt;
+&lt;li&gt;EDM&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>More Job Hunting.. and chicken</title>
+          <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+          <author>axiompraxis</author>
+          <link>https://axiompraxis.github.io/posts/more-job-hunting-and-chicken/</link>
+          <guid>https://axiompraxis.github.io/posts/more-job-hunting-and-chicken/</guid>
+          <description xml:base="https://axiompraxis.github.io/posts/more-job-hunting-and-chicken/">&lt;p&gt;Trying to stay motivated and keep a &amp;quot;9am - 5pm wake up and do stuff&amp;quot; schedule, updating some skills via Udemy, applying to different places that look interesting.&lt;&#x2F;p&gt;
+&lt;p&gt;Some friends are doing CV&#x2F;resume review so hopefully that helps too.&lt;&#x2F;p&gt;
+&lt;p&gt;Went out with some friends yesterday for Korean Fried Chicken (crispy and &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Yangnyeom_chicken&quot;&gt;yangnyeom&lt;&#x2F;a&gt;)!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;axiompraxis.github.io&#x2F;posts&#x2F;more-job-hunting-and-chicken&#x2F;crispy-and-yangnyeom-2024-03-10-17-13-54-330.jpg&quot; alt=&quot;crispy and yangnyeom chicken&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Trying out Zola</title>
+          <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+          <author>axiompraxis</author>
+          <link>https://axiompraxis.github.io/posts/trying-out-zola/</link>
+          <guid>https://axiompraxis.github.io/posts/trying-out-zola/</guid>
+          <description xml:base="https://axiompraxis.github.io/posts/trying-out-zola/">&lt;p&gt;So, yeah, &lt;a href=&quot;https:&#x2F;&#x2F;wwww.getzola.org&quot;&gt;zola&lt;&#x2F;a&gt; (what this blog is written in) is pretty cool. It&#x27;s a static site generator written in rust that takes a little getting used to, but is incredibly powerful once you get it.&lt;&#x2F;p&gt;
+&lt;p&gt;It also lets you write &lt;em&gt;in markdown&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;m trying to learn Azure, study for my CKAD, and job hunting after a layoff. Ideally I&#x27;d like to do something with CI&#x2F;CD pipelines, automating build processes, and generally leaving everything in a better state than when I found it.&lt;&#x2F;p&gt;
+&lt;p&gt;This site is generated by Github Actions as part of a CI&#x2F;CD process!&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
